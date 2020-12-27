@@ -6,7 +6,7 @@
   "author": "Santosh Marigowda <santosharakere@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "ts-node src/index.ts"
+    "test": "ts-node src/client.ts"
   },
   "dependencies": {
     "ts-node": "^9.1.1",
